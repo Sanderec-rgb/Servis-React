@@ -7,10 +7,13 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
+# Dependencies
 dist
 dist-ssr
 *.local
+/node_modules
+/.pnp
+.pnp.js
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +25,44 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Production
+/dist
+/dist-ssr
+
+# Variables de entorno CRÍTICAS
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Cache
+.cache/
+.temp/
+
+# Coverage
+coverage/
+.nyc_output
+
+# Misc
+*.tgz
+.yarn/
+.pnpm-debug.log*
