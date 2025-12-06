@@ -1,4 +1,4 @@
-# React + Vite
+<img width="1349" height="636" alt="image" src="https://github.com/user-attachments/assets/3e92c42e-6d5f-4174-a4b5-24314435063e" /># React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -63,5 +63,11 @@ Asegúrate de tener instalado un servidor local o abre directamente el archivo i
 Alternativamente, si usas Vite:
 Ejecuta npm run dev para iniciar el servidor de desarrollo.
 Abre el enlace proporcionado en tu navegador.
+
+<img width="1349" height="637" alt="image" src="https://github.com/user-attachments/assets/793b93d6-aafe-4e71-b40a-4f809549fdba" />
+<img width="1349" height="636" alt="image" src="https://github.com/user-attachments/assets/a8f21404-879f-4b05-9bb3-a05cd333ba25" />
+<img width="1349" height="638" alt="image" src="https://github.com/user-attachments/assets/527f54cc-5b11-4803-942e-231baa43c5d8" />
+
+
 
 
