@@ -1,0 +1,48 @@
+# Dependency directories 
+node_modules/ 
+.pnp 
+.pnp.js 
+ECHO está activado.
+# Build directories 
+/build/ 
+/dist/ 
+/.next/ 
+/out/ 
+ECHO está activado.
+# Environment variables 
+.env 
+.env.local 
+.env.development.local 
+.env.test.local 
+.env.production.local 
+ECHO está activado.
+# Firebase secrets 
+*.key.json 
+firebase-credentials.json 
+serviceAccountKey.json 
+.firebase/ 
+firebase-debug.log 
+ECHO está activado.
+# IDE files 
+.vscode/ 
+.idea/ 
+*.swp 
+*.swo 
+*~ 
+ECHO está activado.
+# OS generated files 
+.DS_Store 
+Thumbs.db 
+ECHO está activado.
+# Logs 
+npm-debug.log* 
+yarn-debug.log* 
+yarn-error.log* 
+ECHO está activado.
+# Testing 
+/coverage 
+ECHO está activado.
+# Production 
+.cache/ 
+.parcel-cache/ 
+ECHO está activado.
